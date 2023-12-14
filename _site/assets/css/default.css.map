@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AACA;EACI;;;AAGJ;EACE;EACA","sourcesContent":["\r\n.current {\r\n    color: green;\r\n  }\r\n\r\nbody {\r\n  background-image: linear-gradient(to bottom, rgba(128,0,128,0), rgb(128, 0, 128, .5));\r\n  background-attachment: fixed;\r\n\r\n\r\n\r\n}\r\n  "],"file":"default.css"}
